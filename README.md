@@ -1,22 +1,45 @@
-# Design Teardown
+# Gray scale heat map representation
+This project is a greyscale heat map of the [Smashing Magazine](https://www.smashingmagazine.com/), is designed to start thinking in the visual hierarchy of the different elements in a webpage. Also, the structure and methodology of [The Odin Project](https://www.theodinproject.com/courses/html-and-css/lessons/design-teardown) were implemented along with many of the UX UI design techniques.
 
-This project is a grey scale heat map of the [Smashing Magazine https://www.smashingmagazine.com/](https://www.smashingmagazine.com/), this project is designed for start thinking in the visual hierarchy of the different elements in a webpage, this project was developed using structure and methodology of [The Odin Project](https://www.theodinproject.com/). for this project we have to implement many of the techniques shown in the lectures for UX UI Design.
+<p> 
+<img src="https://capturefullpage.com/uploads/5ef12f32eece1-converted/github.io.jpg" alt="gray scale heat map" />
+</p>
 
-For achieving this results it was used:
+## Live Version
+[Try the live version here.](https://carloshdelreal.github.io/design-teardown/)
 
-* HTML
-* CSS
+## Built With ✨
 
-# Authors
+- HTML5
+- CSS3
 
-this project was achived thanks to 
+## Install
+Download the files located on the master branch and, open index.html in your browser.
 
-* Gabriela Cruz [Github account](https://github.com/ViriCruz) [https://github.com/ViriCruz](https://github.com/ViriCruz)
-* Carlos Del Real [Github account](https://github.com/carloshdelreal) [https://github.com/carloshdelreal](https://github.com/carloshdelreal) 
+## Usage instructions
+This does not contain any behavior, feel free to compare [the original page](https://www.smashingmagazine.com/) and, grayscale heat map.
 
-# The Website
+## Potential future features
 
-The results of this project are presented at the site's webpage [link for the site](https://carloshdelreal.github.io/design-teardown/)
+- Add a different google font to see how it changes the main purpose of this project.
+- Add a font/weight combination that approximates to the original Smashing homepage.
 
-The development version of this project is presented at the [Development Site](https://raw.githack.com/carloshdelreal/design-teardown/development/index.html)
+## How to contribute and participate
+Fork this repo and submit a PR for review and potential merge to the main branch. Feel free to leave feedback. :smile:
 
+
+## Authors
+
+👨‍💻 **Gabriela Cruz**
+
+- Github [@viricruz](https://github.com/ViriCruz/)
+
+- Email me at viridiana.cruz.olivera@gmail.com
+
+- LinkedIn [@viricruz](https://www.linkedin.com/in/viricruz/)
+
+👨‍💻 **Carlos Del Real**
+
+- Github [@carloshdelreal](https://github.com/carloshDelREal)
+
+- LinkedIn [@carloshdelreal](https://www.linkedin.com/in/carloshDelreal/)
